@@ -1,0 +1,3 @@
+from ImagesClassifications.inceptionNet.inceptionNet_v1 import inception_net as InceptionNet
+from ImagesClassifications.inceptionNet.inceptionNet_v3 import inception_net_v3 as InceptionNet
+
